@@ -26,7 +26,7 @@ The user will be able to add expenses and deposits to their budget with or witho
   `http://localhost:3000/`
 
 * A live demo is available on the link below:
-    * [Live Heroku App]()
+    * [Live Heroku App](https://gb-budget-tracker.herokuapp.com/)
 
 * Screenshot of the Application:
 ![](./dist/final.png)
